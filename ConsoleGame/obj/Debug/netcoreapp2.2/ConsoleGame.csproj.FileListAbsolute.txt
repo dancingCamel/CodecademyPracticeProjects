@@ -1,0 +1,10 @@
+C:\Users\Rober\Dropbox\Dev\CodeAcademy\Pro\Challenges\ConsoleGame\obj\Debug\netcoreapp2.2\ConsoleGame.csprojAssemblyReference.cache
+C:\Users\Rober\Dropbox\Dev\CodeAcademy\Pro\Challenges\ConsoleGame\obj\Debug\netcoreapp2.2\ConsoleGame.AssemblyInfoInputs.cache
+C:\Users\Rober\Dropbox\Dev\CodeAcademy\Pro\Challenges\ConsoleGame\obj\Debug\netcoreapp2.2\ConsoleGame.AssemblyInfo.cs
+C:\Users\Rober\Dropbox\Dev\CodeAcademy\Pro\Challenges\ConsoleGame\bin\Debug\netcoreapp2.2\ConsoleGame.deps.json
+C:\Users\Rober\Dropbox\Dev\CodeAcademy\Pro\Challenges\ConsoleGame\bin\Debug\netcoreapp2.2\ConsoleGame.runtimeconfig.json
+C:\Users\Rober\Dropbox\Dev\CodeAcademy\Pro\Challenges\ConsoleGame\bin\Debug\netcoreapp2.2\ConsoleGame.runtimeconfig.dev.json
+C:\Users\Rober\Dropbox\Dev\CodeAcademy\Pro\Challenges\ConsoleGame\bin\Debug\netcoreapp2.2\ConsoleGame.dll
+C:\Users\Rober\Dropbox\Dev\CodeAcademy\Pro\Challenges\ConsoleGame\bin\Debug\netcoreapp2.2\ConsoleGame.pdb
+C:\Users\Rober\Dropbox\Dev\CodeAcademy\Pro\Challenges\ConsoleGame\obj\Debug\netcoreapp2.2\ConsoleGame.dll
+C:\Users\Rober\Dropbox\Dev\CodeAcademy\Pro\Challenges\ConsoleGame\obj\Debug\netcoreapp2.2\ConsoleGame.pdb
